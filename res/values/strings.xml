@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">碎片时间管理专家</string>
+    <string name="doing">%s进行中&#8230;</string>
+    <string name="history_title">从历史事件开始</string>
+    
+    <!-- 对话框 -->
+    <string name="alert_title">提示</string>
+    <string name="alert_msg">时间还在继续计算，退出的话将丢失这部分的信息。</string>
+    <string name="exit_without_save">直接退出</string>
+    <string name="exit_but_save">保存后退出</string>
+    <string name="cancel">点错了</string>
+    <string name="about_title">关于碎片时间管理专家</string>
+    <string name="about_text">"Fragments time management expert" is a small tool that helps fragments time in the statistics of daily life.  With this software you can quickly see the statistics in the time you spend on everything, every day. We hope to be able to help you better carry out the time management of daily work and increase efficiency to have more fun in life.
+</string>
+    <string name="close_dialog">关闭</string>
+    <string name="mail_chooser">请选择您的邮件客户端</string>
+    <string name="mail_author">邮件反馈</string>
+    
+    <!-- 保存 -->
+    <string name="save_hint">输入事件名称保存此次统计结果</string>
+    <string name="do_save">保存</string>
+    <string name="abandon_save">不保存</string>
+    <string name="save_success">%s已保存</string>
+    
+    <!-- 初始值 -->
+    <string name="init_eat">吃饭</string>
+    <string name="init_read">看书</string>
+    <string name="init_sleep">睡觉</string>
+    <string name="init_drive">坐车</string>
+    <string name="init_shower">洗澡</string>
+    
+    <!-- 菜单 -->
+    <string name="menu_report">查看报告</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_exit">退出</string>
+    
+    <!-- 查看报告 -->
+    <string name="report_title" formatted="false">%s消耗的项列表</string>
+    <string name="report_detail">%s的时间使用情况</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="defined">自定义</string>
+    <string name="elapsed_string">耗时：%s</string>
+    
+    <string name="report_error">请选择您要查看的报告</string>
+    
+</resources>
